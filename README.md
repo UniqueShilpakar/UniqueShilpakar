@@ -16,22 +16,21 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 
 ### Frameworks:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) Vue.js
 
 ### Tools:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) Webpack
 - ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) NPM
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) Visual Studio Code
 
 ### Other Skills:
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00D1B2?style=flat-square&logo=css3&logoColor=white) Responsive Design
-- ![SEO](https://img.shields.io/badge/SEO-326CE5?style=flat-square&logo=google&logoColor=white) SEO
 - ![Accessibility](https://img.shields.io/badge/Accessibility-3E863D?style=flat-square&logo=accessible-icon&logoColor=white) Accessibility
 
+## 📊 GitHub Contributions Status
+![GitHub Contributions Grade](https://github-readme-stats.vercel.app/api?username=UniqueShilpakar&show_icons=true&theme=radical)
 
 ## 🌐 Let's Connect
-- LinkedIn: [linkedin.com/in/unique](https://linkedin.com/in/unique)
+- LinkedIn: [linkedin.com/in/unique](https://www.linkedin.com/in/unique-shilpakar-545b43281)
 - Twitter: [@unique_handle](https://twitter.com/unique_handle)
 
 ---
