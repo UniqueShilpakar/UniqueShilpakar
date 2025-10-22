@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 
 ### Frameworks:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Tools:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
