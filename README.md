@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3
-- ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) python
+
 
 ### Frameworks:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React
