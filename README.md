@@ -29,6 +29,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 ### Other Skills:
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00D1B2?style=flat-square&logo=css3&logoColor=white) Responsive Design
 - ![Accessibility](https://img.shields.io/badge/Accessibility-3E863D?style=flat-square&logo=accessible-icon&logoColor=white) Accessibility
+- ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) Figma Design
+
 
 ## 📊 GitHub Contributions Status
 ![GitHub Contributions Grade](https://github-readme-stats.vercel.app/api?username=UniqueShilpakar&show_icons=true&theme=radical)
