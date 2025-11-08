@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3
 - ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) python
 - [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev) Flutter
+- ![Advanced Java](https://img.shields.io/badge/Advanced_Java-007396?style=flat-square&logo=java&logoColor=white) Advanced Java
+
 
 
 ### Frameworks:
