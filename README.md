@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 ## 🚀 About Me
 - 🔭 I’m currently working on exciting web projects.
 - 🌱 I’m always learning and exploring the latest in web development.
-
+- 💬 Ask me about anything related to **flutter**, **Python**, **CSS**, **JavaScript** or **web performance optimization**.
+- 📫 How to reach me: [YourEmail@example.com](mailto:YourEmail@example.com)
 
 
 ## 🛠️ Technologies & Tools
