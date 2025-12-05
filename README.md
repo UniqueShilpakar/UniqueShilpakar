@@ -37,9 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 ## 📊 GitHub Contributions Status
 ![GitHub Contributions Grade](https://github-readme-stats.vercel.app/api?username=UniqueShilpakar&show_icons=true&theme=radical)
 
-## 🌐 Let's Connect
-- LinkedIn: [linkedin.com/in/unique](https://www.linkedin.com/in/unique-shilpakar-545b43281)
-- Twitter: [@unique_handle](https://twitter.com/unique_handle)
+
 
 ---
 
