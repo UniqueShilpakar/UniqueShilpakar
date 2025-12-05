@@ -33,6 +33,10 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack fo
 - ![Accessibility](https://img.shields.io/badge/Accessibility-3E863D?style=flat-square&logo=accessible-icon&logoColor=white) Accessibility
 - ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) Figma Design
 
+## 🌐 Let's Connect
+- LinkedIn: [linkedin.com/in/unique](https://www.linkedin.com/in/unique-shilpakar-545b43281)
+- Twitter: [@unique_handle](https://twitter.com/unique_handle)
+
 
 ## 📊 GitHub Contributions Status
 ![GitHub Contributions Grade](https://github-readme-stats.vercel.app/api?username=UniqueShilpakar&show_icons=true&theme=radical)
