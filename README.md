@@ -1,5 +1,4 @@
-# Hi there, I'm Unique! 👋
-Welcome to my GitHub profile! I'm a passionate **Web Developer** with a knack for crafting seamless and engaging web experiences. Whether it's designing pixel-perfect layouts or building dynamic and responsive applications, I love bringing ideas to life through code.
+
 
 ## 🚀 About Me
 - 🔭 I’m currently working on exciting web projects.
